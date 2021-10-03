@@ -1,0 +1,170 @@
+== Most visited attractions ==
+All of the below attractions are located in Manhattan unless otherwise stated. Only attractions with more than 2 million visitors are listed. The most visited attractions in New York City include:
+{| class="wikitable"
+|+
+!Name
+!Image
+!Location
+!Estimated number of visitors (millions)
+!As of
+!{{Abbr|Ref.|Reference}}
+|-
+|[[Central Park]]
+|[[File:Southwest_corner_of_Central_Park,_looking_east,_NYC.jpg|150x150px]]
+|between 5th and 8th Aves, between W 59th and W 110th Sts
+{{Coord|40|46|56|N|73|57|55|W|format=dms|name=Central Park}}
+|42.0
+|2016
+|<ref>{{cite web|url=https://www.smithsonianmag.com/travel/12-secrets-new-yorks-central-park-180957937/|title=12 Secrets of New York's Central Park|last=Van Buren|first=Alex|date=January 27, 2016|website=Smithsonian|access-date=May 18, 2019}}</ref>
+|-
+|[[Times Square]]
+|[[File:New_york_times_square-terabass.jpg|150x150px]]
+|Broadway and 7th Avenue between W 42nd and W 47th Sts
+{{Coord|40.757|-73.986|name=Times Square|format=dms}}
+|39.5
+|2014
+|<ref name=":0">{{Cite web|url=https://www.businessinsider.com/the-50-most-visited-tourist-attractions-in-the-world-2014-3|title=The 50 Most Visited Tourist Attractions In The World [INFOGRAPHIC]|last=Polland|first=Jennifer|website=Business Insider|access-date=2019-07-08}}</ref>
+|-
+|[[Grand Central Terminal]]
+|[[File:Image-Grand_central_Station_Outside_Night_2.jpg|150x150px]]
+|Park Ave between E 42nd and E 45th Sts
+{{coord|40.752813|-73.977215|format=dms|name=Grand Central Terminal}}
+|21.6
+|2014
+|<ref name=":0" />
+|-
+|[[Theater District, Manhattan|Theater District]] (including [[Broadway theatre|Broadway theatres]])
+|[[File:Broadway_Theaters_45th_Street_Night.jpg|165x165px]]
+|between 6th and 8th Aves, between 40th and 54th Sts
+{{Coord|40.759|-73.985|format=dms|name=Theater District}}
+|13.0
+|2018
+|<ref name=":1">{{Cite web|url=https://www.timeout.com/newyork/attractions/top-attractions-in-manhattan|title=The best Manhattan attractions|website=Time Out New York|language=en|access-date=2019-07-08}}</ref>
+|-
+|[[Rockefeller Center]] (including [[Top of the Rock]])
+|[[File:GE_Building_by_David_Shankbone.JPG|alt=|202x202px]]
+|between 5th and 6th Aves, between W 48th and W 51st Sts
+{{coord|40|45|31|N|73|58|45|W|format=dms|name=Rockefeller Center}}
+|12.8
+|2018
+|<ref name=":1" />
+|-
+|[[Bryant Park]]
+|[[File:New-York_-_Bryant_Park.jpg|150x150px]]
+|between 5th and 6th Aves, between W 40th and W 42nd Sts
+{{coord|40.754|-73.984|format=dms|name=Bryant Park}}
+|12.0
+|2017
+|<ref>https://bryantpark.org/files/2017%20Bryant%20Park%20Overview.pdf</ref>
+|-
+|[[Prospect Park (Brooklyn)|Prospect Park]]
+|[[File:Prospect_Park_New_York_October_2015_003.jpg|150x150px]]
+|between 8th, Flatbush, Ocean, Parkside Aves, and Prospect Pk SW (Brooklyn)
+{{Coord|40|39|42|N|73|58|15|W|name=Prospect Park|format=dms}}
+|10.0
+|2017
+|<ref name=":2">{{Cite web|url=https://brooklyneagle.com/articles/2017/12/26/millions-and-millions-of-visitors-poured-into-brooklyn-bridge-park-this-summer/|title=Millions (and millions) of visitors poured into Brooklyn Bridge Park this summer|date=2017-12-26|website=Brooklyn Eagle|language=en-US|access-date=2019-07-08}}</ref>
+|-
+|[[South Street Seaport]] 
+|[[File:South_Street_Seaport,_Detroit_Photographic_Company_(0616).jpg|150x150px]]
+|South St and Fulton St
+{{coord|40|42|22|N|74|0|12|W|format=dms|name=South Street Seaport}}
+|9.0
+|2014
+|<ref name=":0" />
+|-
+|[[High Line]]
+|[[File:High_Line_20th_Street_looking_downtown.jpg|150x150px]]
+|west of 10th Ave between Gansevoort and W 34th Sts
+{{coord|40.747993|-74.004765|format=dms|name=High Line}}
+|7.6
+|2015
+|<ref>{{Cite web|url=https://archpaper.com/2017/02/high-line-founder-raises-concern/|title=Friends of the High Line founder raises concern about park's success|date=2017-02-24|website=Archpaper.com|language=en-US|access-date=2019-07-08}}</ref>
+|-
+|[[Coney Island]] (including amusement parks and [[Riegelmann Boardwalk|boardwalk]])
+|[[File:Coney_Island_beach_and_amusement_parks_(June_2016).jpg|150x150px]]
+|southern shore of Brooklyn
+{{coord|40.574|-73.978|format=dms|name=Coney Island}}
+|7.4
+|2017
+|<ref name=":3">{{Cite web|url=https://www.amny.com/news/nyc-beach-pool-attendance-1.22232998|title=City beaches saw best numbers in three years: Parks|website=am New York|language=en|access-date=2019-07-09}}</ref>
+|-
+|[[National September 11 Memorial & Museum|National September 11 Memorial]]
+|[[File:WTCmemorialJune2012.png|150x150px]]
+|between West, Vesey, Greenwich, and Liberty Sts
+{{coord|40.711667|-74.013611|format=dms|name=National September 11 Memorial}}
+|6.8
+|2017
+|<ref name=":4">{{Cite web|url=http://2017.911memorial.org/|title=2017 Annual Report {{!}} National September 11 Memorial & Museum|website=2017 Annual Report {{!}} National September 11 Memorial & Museum|language=en|access-date=2019-07-08}}</ref>
+|-
+|[[Metropolitan Museum of Art]]
+|[[File:The_MET.jpg|150x150px]]
+|5th Ave and E 82nd St
+{{coord|40.7794|-73.9631|format=dms|name=Metropolitan Museum of Art}}
+|7.0
+|2019
+|<ref name=":0" />
+|-
+|[[Rockaway Beach (beach)|Rockaway Beach]]
+|[[File:Rockaway_Beach_Queens.JPG|150x150px]]
+|[[Rockaway, Queens]]
+{{coord|40.586|-73.812|format=dms|name=Rockaway Beach}}
+|5.5
+|2017
+|<ref name=":3" />
+|-
+|[[American Museum of Natural History]]
+|[[File:USA-NYC-American_Museum_of_Natural_History.JPG|150x150px]]
+|between Columbus Ave, Central Park W, and W 77th and W 81st Sts
+{{coord|40|46|50|N|73|58|29|W|format=dms|name=American Museum of National History}}
+|5.0
+|2018
+|<ref>{{Cite web|url=https://www.amny.com/news/american-museum-natural-history-roosevelt-park-1.32186098|title=American Museum of Natural History to break ground on new center|website=am New York|language=en|access-date=2019-07-08}}</ref>
+|-
+|[[Statue of Liberty]] and [[Ellis Island]]
+|[[File:Liberty_and_Ellis_Island.jpg|183x183px]]
+|[[Statue of Liberty National Monument]] (off the coast of Manhattan)
+{{coord|40.694167|-74.043056|format=dms|name=Statue of Liberty and Ellis Island}}
+|4.5
+|2016
+|<ref>{{Cite web|url=https://www.nps.gov/stli/learn/management/park-statistics.htm|title=Park Statistics - Statue Of Liberty National Monument (U.S. National Park Service)|website=www.nps.gov|language=en|access-date=2019-07-08}}</ref>
+|-
+|[[Empire State Building]]
+|[[File:Empire_State_Building_(aerial_view).jpg|225x225px]]
+|5th Ave and W 34th St
+{{coord|40|44|54|N|73|59|08|W|format=dms|name=Empire State Building}}
+|4.0
+|2015
+|<ref name=":5">{{Cite news|url=https://www.nytimes.com/2016/05/28/nyregion/3-3-million-were-expected-at-trade-center-attraction-1-million-havent-shown-up.html|title=3.3 Million Were Expected at Trade Center Attraction; a Million Haven't Shown Up|last=Bagli|first=Charles V.|date=2016-05-27|work=The New York Times|access-date=2019-07-09|language=en-US|issn=0362-4331}}</ref>
+|-
+|[[National September 11 Memorial & Museum|National September 11 Museum]]
+|[[File:September_11_Museum_Foundation_Hall.jpg|150x150px]]
+|Greenwich St and Cortlandt Way
+{{coord|40.71149|-74.01253|format=dms|name=National September 11 Museum}}
+|3.1
+|2017
+|<ref name=":4" />
+|-
+|[[Museum of Modern Art]]
+|[[File:MoMa_NY_USA_1.jpg|200x200px]]
+|11 W 53rd St
+{{coord|40.7616|-73.9776|format=dms|name=Museum of Modern Art}}
+|2.8
+|2016
+|<ref>{{Cite web|url=http://theartnewspaper.com/news/visitor-figures-2016-christo-helps-12-million-people-to-walk-on-water|title=Visitor figures 2016: Christo helps 1.2 million people to walk on water|website=theartnewspaper.com|archive-url=https://web.archive.org/web/20171223042722/http://theartnewspaper.com/news/visitor-figures-2016-christo-helps-12-million-people-to-walk-on-water|archive-date=December 23, 2017|url-status=live|access-date=December 22, 2017}}</ref>
+|-
+|[[One World Trade Center]]
+|[[File:One_World_Trade_Center_May_2015.jpg|200x200px]]
+|West St and Vesey St
+{{coord|40|42|47|N|74|0|49|W|format=dms|name=One World Trade Center}}
+|2.3
+|2015
+|<ref name=":5" />
+|}
+{{GeoGroup}}
+Notes:
+
+* Many of these counts also include residents and workers as well. In addition, the actual visitor counts may be greatly inflated since a single person may be counted multiple times if they visited the attraction more than once a year. For this reason, modes of transport such as the [[Staten Island Ferry]] and [[Brooklyn Bridge]] are excluded, as are neighborhoods such as [[Greenwich Village]], [[Harlem]], and the [[Financial District, Manhattan|Financial District]].
+* [[Brooklyn Bridge Park]], which saw 4.62 million visitors in summer 2016, is excluded because annual statistics are not available.<ref name=":2" /> However, Coney Island and Rockaway Beach are included since they are seasonal destinations.
+* [[The Battery (Manhattan)|The Battery]], the port of departure for Statue of Liberty and Ellis Island tourist ferries, is excluded.
+* Sports stadiums are also excluded since annual attendance may fluctuate greatly from year to year.

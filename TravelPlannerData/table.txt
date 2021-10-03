@@ -1,0 +1,1610 @@
+{{NRHP row|NHL
+|pos=1
+|article=69th Regiment Armory
+|name=69th Regiment Armory
+|image=69th-regiment-armory.JPG
+|date=June 19, 1996
+|address=[[Manhattan]]
+|lat=40.741648
+|lon=-73.983607
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Home of the watershed [[Armory Show]] in 1913, which introduced America to [[modern art]]
+|refnum=93001538
+|commonscat=69th Regiment Armory
+}}
+{{NRHP row|NHL
+|pos=2
+|article=Admiral David Glasgow Farragut Gravesite
+|name=Admiral David Glasgow Farragut Gravesite
+|image=Admiral David Farragut Monument 1024.jpg
+|date=October 17, 2012
+|address=[[The Bronx|Bronx]]
+|lat=40.892165
+|lon=-73.865860
+|county=[[List of Registered Historic Places in Bronx County, New York|Bronx]]
+|description= Only intact known property directly associated with Admiral [[David Farragut]]
+|refnum=12001008
+|commonscat=69th Regiment Armory
+}}
+{{NRHP row|NHL
+|pos=3
+|article=African Burial Ground National Monument
+|name=African Burial Ground
+|image=African Burial Ground.jpg
+|date=April 19, 1993
+|address=[[Manhattan]]
+|lat=40.714558
+|lon=-74.004384
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Dedicated as National Monument on October 5, 2007; burial site in Lower [[Manhattan]] of over 400 Africans from the 17th and 18th centuries
+|refnum=93001597
+|commonscat=African Burial Ground National Monument
+}}
+{{NRHP row|NHL
+|pos=4
+|article=United States Lightship LV-87
+|name=Ambrose (lightship)
+|image=Ambrose Lightship.jpg
+|date=April 11, 1989
+|address=[[Manhattan]]
+|lat=40.704844
+|lon=-74.002467
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Lightship, several miles offshore, that marked [[Ambrose Channel]] into New York Harbor, now at [[South Street Seaport]] Museum.
+|refnum=84002758
+|commonscat=Ambrose (ship, 1907)
+}}
+{{NRHP row|NHL
+|pos=5
+|article=American Stock Exchange Building
+|name=American Stock Exchange
+|image=AMEX.jpg
+|date=June 6, 1978
+|address=[[Manhattan]]
+|lat=40.7090
+|lon=-74.0126
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= World-class stock exchanges dating back to colonial times. Building area 181,725sq.ft.<ref>{{cite web|title=New York Curb Exchange|url=https://www.credifi.com/ui/freemium/propertydetails/86-Trinity-Pl-New-York-City-NY---Manhattan/53baf804cbda7100842d8438|website=CrediFi|access-date=September 18, 2016}}</ref>
+|refnum=78001867
+|commonscat=American Stock Exchange
+}}
+{{NRHP row|NHL
+|pos=6
+|article=Louis Armstrong House
+|name=Louis Armstrong House
+|image=Louis-armstrong-house.jpg
+|date=May 11, 1976
+|address=[[Corona, Queens|Corona]]
+|lat=40.754556
+|lon=-73.861557
+|county=[[List of Registered Historic Places in Queens County, New York|Queens]]
+|description= Home of jazz legend [[Louis Armstrong]] for 28 years
+|refnum=76001265
+|commonscat=Louis Armstrong House
+}}
+{{NRHP row|NHL
+|pos=7
+|article=Chester A. Arthur House
+|name=Chester A. Arthur House
+|image=123-lexington.jpg
+|date=December 12, 1965
+|address=[[Manhattan]]
+|lat=40.74279
+|lon=-73.982196
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Home of President [[Chester A. Arthur]]; site of his inaugural oath
+|refnum=66000534
+|commonscat=Chester A. Arthur Home
+}}
+{{NRHP row|NHL
+|pos=8
+|article=Alice Austen House
+|name=Alice Austen House
+|image=Alice Austen House.jpg
+|date=April 19, 1993
+|address=[[Rosebank, Staten Island|Rosebank]]
+|lat=40.615129
+|lon=-74.062952
+|county=[[List of Registered Historic Places in Richmond County, New York|Richmond (Staten Island)]]
+|description= Home of photographer [[Alice Austen]], now a museum
+|refnum=70000925
+|commonscat=Alice Austen House
+}}
+{{NRHP row|NHL
+|pos=9
+|article=Bartow-Pell Mansion
+|name=Bartow-Pell Mansion
+|image=Bartow-pell-mansion.jpg
+|date=December 8, 1976
+|address=[[Pelham Bay Park]]
+|lat=40.871748
+|lon=-73.805578
+|county=[[List of Registered Historic Places in Bronx County, New York|Bronx]]
+|description= 19th-century mansion in largest New York City park
+|refnum=74001220
+|commonscat=Bartow-Pell Mansion
+}}
+{{NRHP row|NHL
+|pos=10
+|article=Bayard-Condict Building
+|name=Bayard-Condict Building
+|image=SullivanNY1.jpg
+|date=December 8, 1976
+|address=[[Manhattan]]
+|lat=40.7263
+|lon=-73.9956
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Only [[Louis Sullivan]] building in New York City; one of the first steel skeleton skyscrapers. Total building area stands at 104,775sq.ft.
+|refnum=76001236
+|commonscat=Bayard-Condict Building
+}}
+{{NRHP row|NHL
+|pos=11
+|article=Bell Laboratories Building (Manhattan)
+|name=Bell Laboratories Building
+|image=463-west-street-gate.jpg
+|date=May 15, 1975
+|address=[[Manhattan]]
+|lat=40.736852
+|lon=-74.009871
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Bell Labs work here included experimental  phonograph record, vacuum tubes, talking movies (1923), black and white and color TV, radar, and early commercial [[remote broadcast]]s. Today home to the Westbeth art collective.
+|refnum=75001202
+|commonscat=Westbeth Complex
+}}
+{{NRHP row|NHL
+|pos=12
+|article=Brooklyn Bridge
+|name=Brooklyn Bridge
+|image=Brooklyn Bridge - New York City.jpg
+|date=January 29, 1954
+|address=[[Brooklyn, New York|Brooklyn]] and [[Manhattan]]
+|lat=40.706344
+|lon=-73.997439
+|county=[[List of Registered Historic Places in Kings County, New York|Kings]] and [[List of Registered Historic Places in New York County, New York|New York]]
+|description= The first steel wire suspension bridge; at one point the largest in the world; inspiration for [[Hart Crane]]'s poem, "[[The Bridge (epic poem)|The Bridge]]"
+|refnum=66000523
+|commonscat=Brooklyn Bridge
+}}
+{{NRHP row|NHL
+|pos=13
+|article=Brooklyn Heights Historic District
+|name=Brooklyn Heights Historic District
+|image=Brooklyn heights july2006a.jpg
+|date=January 12, 1965
+|address=[[Brooklyn, New York|Brooklyn]]
+|lat=40.696667
+|lon=-73.996667
+|county=[[List of Registered Historic Places in Kings County, New York|Kings]]
+|description= Exemplary collection of 19th-century architectural styles; first historic district in New York City
+|refnum=66000524
+|commonscat=Brooklyn Heights
+}}
+{{NRHP row|NHL
+|pos=14
+|article=Brooklyn Historical Society Building
+|name=Brooklyn Historical Society Building
+|image=Brooklyn-historical-society.jpg
+|date=July 17, 1991
+|address=[[Brooklyn, New York|Brooklyn]]
+|lat=40.694761
+|lon=-73.992794
+|county=[[List of Registered Historic Places in Kings County, New York|Kings]]
+|description= One of the few remaining buildings by [[George B. Post]]; innovative structural system
+|refnum=91002054
+|commonscat=Brooklyn Historical Society
+}}
+{{NRHP row|NHL
+|pos=15
+|article=Ralph Johnson Bunche House
+|name=Ralph Johnson Bunche House
+|image=Ralph-johnson-bunch-house.jpg
+|date=May 11, 1976
+|address=[[Kew Gardens, Queens|Kew Gardens]]
+|lat=40.70646
+|lon=-73.836998
+|county=[[List of Registered Historic Places in Queens County, New York|Queens]]
+|description= Home of [[Ralph Johnson Bunche]], eminent African-American diplomat and Undersecretary General of [[United Nations]]
+|refnum=76001266
+|commonscat=Ralph Bunche House
+}}
+{{NRHP row|NHL
+|pos=16
+|article=Carnegie Hall
+|name=Carnegie Hall
+|image=Carnegie Hall.jpg
+|date=December 29, 1962
+|address=[[Manhattan]]
+|lat=40.764944
+|lon=-73.980139
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= One of the most famous music venues in the world
+|refnum=66000535
+|commonscat=Carnegie Hall
+}}
+{{NRHP row|NHL
+|pos=17
+|article=Andrew Carnegie Mansion
+|name=Andrew Carnegie Mansion
+|image=Cooper-hewitt 90 jeh.JPG
+|date=November 13, 1966
+|address=[[Manhattan]]
+|lat=40.784421
+|lon=-73.95789
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Home of [[Andrew Carnegie]], now the [[Cooper-Hewitt, National Design Museum]]
+|refnum=66000536
+|commonscat=Andrew Carnegie Mansion
+}}
+{{NRHP row|NHL
+|pos=18
+|article=Central Park
+|name=Central Park
+|image=Central Park New York City New York 23 cropped.jpg
+|date=May 23, 1963
+|address=[[Manhattan]]
+|lat=40.781944
+|lon=-73.966111
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= The Green Lung of the city; one of the most visited city parks in the world; designed by [[Frederick Law Olmsted]] and [[Calvert Vaux]].
+|refnum=66000538
+|commonscat=Central Park
+}}
+{{NRHP row|NHL
+|pos=19
+|article=Central Synagogue (Manhattan)
+|name=Central Synagogue
+|image=Central Synagogue Lex jeh.jpg
+|date=May 15, 1975
+|address=[[Manhattan]]
+|lat=40.759592
+|lon=-73.970473
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Oldest synagogue continuously in use by a New York City Jewish congregation; built in a [[Moorish Revival]] style to recognize importance of that period in Jewish history
+|refnum=70000423
+|commonscat=Central Synagogue
+}}
+{{NRHP row|NHL
+|pos=20
+|article=Chamber of Commerce Building (Manhattan)
+|name=Chamber of Commerce Building
+|image=65-liberty-st.jpg
+|date=December 22, 1977
+|address=[[Manhattan]]
+|lat=40.709434
+|lon=-74.009871
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description=Former home of the [[Chamber of Commerce of the State of New York]], established in 1768; prototype for the [[chamber of commerce]]
+|refnum=73001214
+|commonscat=Chamber of Commerce Building (New York City)
+}}
+{{NRHP row|NHL
+|pos=21
+|article=Chrysler Building
+|name=Chrysler Building
+|image=Chrysler building- top.jpg
+|date=December 8, 1976
+|address=[[Manhattan]]
+|lat=40.7517
+|lon=-73.9753
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= [[Art Deco]] skyscraper; distinctive feature of Manhattan skyline; at one point world's tallest building
+|refnum=76001237
+|commonscat=Chrysler Building
+}}
+{{NRHP row|NHL
+|pos=22
+|article=Church of the Ascension (New York)
+|name=Church of the Ascension
+|image=Church of the Ascension by David Shankbone.jpg
+|date=December 23, 1987
+|address=[[Manhattan]]
+|lat=40.733647
+|lon=-73.995492
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Early church design by [[Richard Upjohn]]; valuable interior artwork
+|refnum=87002593
+|commonscat=Church of the Ascension, Episcopal (Manhattan)
+}}
+{{NRHP row|NHL
+|pos=23
+|article=New York City Hall
+|name=City Hall
+|image=Nyc city hall jan06a.jpg
+|date=December 19, 1960
+|address=[[Manhattan]]
+|lat=40.7127
+|lon=-74.0059
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Oldest city hall in U.S. still in use as main municipal government building
+|refnum=66000539
+|commonscat=New York City Hall
+}}
+{{NRHP row|NHL
+|pos=24
+|article=Conference House
+|name=Conference House
+|image=Conference-house-staten-island.jpg
+|date=May 23, 1966
+|address=[[Tottenville, Staten Island|Tottenville]]
+|lat=40.503072
+|lon=-74.253159
+|county=[[List of Registered Historic Places in Richmond County, New York|Richmond (Staten Island)]]
+|description= Only surviving pre-Revolutionary War [[manor house]] in New York City; site of [[Staten Island Peace Conference|unsuccessful peace conference]] in 1776
+|refnum=66000566
+|commonscat=Conference House
+}}
+{{NRHP row|NHL
+|pos=25
+|article=Will Marion Cook House
+|name=Will Marion Cook House
+|image=Marion-cook-house.jpg
+|date=May 11, 1976
+|address=[[Manhattan]]
+|lat=40.818096
+|lon=-73.942924
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Home of the leading black composer and musician [[Will Marion Cook]]
+|refnum=76001238
+|commonscat=Conference House
+}}
+{{NRHP row|NHL
+|pos=26
+|article=Cooper Union
+|name=Cooper Union
+|image=Cooper Union by David Shankbone crop.jpg
+|date=July 4, 1961
+|address=[[Manhattan]]
+|lat=40.729405
+|lon=-73.990417
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Pioneering adult education center; site of famous anti-slavery speech by [[Abraham Lincoln]]
+|refnum=66000540
+|commonscat=Cooper Union Foundation Building
+}}
+{{NRHP row|NHL
+|pos=27
+|article=Daily News Building
+|name=Daily News Building
+|image=Daily News Building.jpg
+|date=June 29, 1989
+|address=[[Manhattan]]
+|lat=40.749544
+|lon=-73.973492
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= First modernistic free-standing skyscraper designed by [[Raymond Hood]]
+|refnum=82001191
+|commonscat=Daily News Building
+}}
+{{NRHP row|NHL
+|pos=28
+|article=The Dakota
+|name=Dakota Apartments
+|image=1 West 72nd Street (The Dakota) by David Shankbone.jpg
+|date=December 8, 1976
+|address=[[Manhattan]]
+|lat=40.776642
+|lon=-73.976269
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Combination of Renaissance architectural styles by Henry Hardenbergh; setting for ''[[Rosemary's Baby (film)|Rosemary's Baby]]'' and the shooting death of [[John Lennon]]
+|refnum=72000869
+|commonscat=The Dakota
+}}
+{{NRHP row|NHL
+|pos=29
+|article=Dyckman House
+|name=Dyckman House
+|image=Dyckman House 2007.jpg
+|date=December 24, 1967
+|address=[[Manhattan]]
+|lat=40.8674
+|lon=-73.9233
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Only remaining farmhouse in Manhattan
+|refnum=67000014
+|commonscat=Dyckman House
+}}
+{{NRHP row|NHL
+|pos=30
+|article=Eldridge Street Synagogue
+|name=Eldridge Street Synagogue
+|image=EldridgeStreetSynagogue.jpg
+|date=June 19, 1996
+|address=[[Manhattan]]
+|lat=40.715007
+|lon=-73.993982
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= One of the oldest synagogues in the U.S.; first built by Jews from Eastern Europe
+|refnum=80002687
+|commonscat=Eldridge Street Synagogue
+}}
+{{NRHP row|NHL
+|pos=31
+|article=Duke Ellington House
+|name=Duke Ellington House
+|image=Duke-ellington.jpg
+|date=May 11, 1976
+|address=[[Manhattan]]
+|lat=40.832269
+|lon=-73.94096
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= [[Duke Ellington|Ellington]], the legendary jazz composer and bandleader, lived in Apartment 4A from 1939 to 1961
+|refnum=76001239
+|commonscat=Duke Ellington House
+}}
+{{NRHP row|NHL
+|pos=32
+|article=Empire State Building
+|name=Empire State Building
+|image=Empire State Building from the Top of the Rock.jpg
+|date=June 24, 1986
+|address=[[Manhattan]]
+|lat=40.748433
+|lon=-73.985694
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= World's tallest building from 1931 to 1972 and internationally recognized symbol of New York City
+|refnum=82001192
+|commonscat=Empire State Building
+}}
+{{NRHP row|NHL
+|pos=33
+|article=Equitable Building (Manhattan)
+|name=Equitable Building
+|image=DSCN3512 equitablebuilding e.jpg
+|date=June 2, 1978
+|address=[[Manhattan]]
+|lat=40.709722
+|lon=-74.011111
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= One of the earliest skyscrapers in Manhattan; profoundly influenced later skyscraper design
+|refnum=78001869
+|commonscat=Equitable Building (Manhattan)
+}}
+{{NRHP row|NHL
+|pos=34
+|article=Hamilton Fish House
+|name=Hamilton Fish House
+|image=21-stuyvesant.jpg
+|date=May 15, 1975
+|address=[[Manhattan]]
+|lat=40.730052
+|lon=-73.988583
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Home of [[Hamilton Fish]], future Governor and Senator of New York
+|refnum=72001456
+|commonscat=Stuyvesant-Fish House
+}}
+{{NRHP row|NHL
+|pos=35
+|article=Flatiron Building
+|name=Flatiron Building
+|image=FlatIronBldg.jpg
+|date=June 29, 1989
+|address=[[Manhattan]]
+|lat=40.741111
+|lon= -73.989722
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Considered the World's first skyscraper. Distinctive triangular building at [[Madison Square]]; world's tallest 1901 to 1911
+|refnum=79001603
+|commonscat=Flatiron Building (New York City)
+}}
+{{NRHP row|NHL
+|pos=36
+|article=Founder's Hall, The Rockefeller University
+|name=Founder's Hall, The Rockefeller University
+|image=Founders-hall.jpg
+|date=May 30, 1974
+|address=[[Manhattan]]
+|lat=40.762471
+|lon=-73.955074
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Building marked the start of [[John D. Rockefeller Jr.]]'s putting the vast family fortune to philanthropic purposes
+|refnum=74001269
+|commonscat=Flatiron Building (New York City)
+}}
+{{NRHP row|NHL
+|pos=37
+|article=Henry Clay Frick House
+|name=The Frick Collection and Frick Art Reference Library Building 
+|image=Henry_C_Frick_House_009.JPG
+|date=October 6, 2008
+|address=[[Manhattan]]
+|lat=40.771261
+|lon=-73.967241
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description=
+|refnum=08001091
+|commonscat=Henry Clay Frick House
+}}
+{{NRHP row|NHL
+|pos=38
+|article=Governors Island
+|name=Governors Island
+|image=Castle Williams Governors Island NY.jpg
+|date=February 4, 1985
+|address=[[Manhattan]]
+|lat=40.691389
+|lon=-74.016111
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Island in NY Harbor which served various branches of the US Military from 1783 until the late 1990s; future uses are still being decided
+|refnum=85002435
+|commonscat=Governors Island
+}}
+{{NRHP row|NHL
+|pos=39
+|article=Grace Church, New York
+|name=Grace Church
+|image=GraceChurchBroadway.JPG
+|date=December 22, 1977
+|address=[[Manhattan]]
+|lat=40.731667
+|lon=-73.991944
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= [[Gothic Revival architecture|Gothic Revival]] masterpiece designed by [[James Renwick, Jr.]]
+|refnum=74001270
+|commonscat=Grace Church (Manhattan)
+}}
+{{NRHP row|NHL
+|pos=40
+|article=Grand Central Terminal
+|name=Grand Central Terminal
+|image=Grand Central Station Main Concourse Jan 2006.jpg
+|date=December 8, 1976
+|address=[[Manhattan]]
+|lat=40.7528
+|lon=-73.976522
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= [[Beaux-Arts architecture]]; historic rail gateway to New York City; largest train station in the world by number of platforms
+|refnum=75001206
+|commonscat=Grand Central Terminal
+}}
+{{NRHP row|NHL
+|pos=41
+|article=Green-Wood Cemetery
+|name=Green-Wood Cemetery
+|image=Chapel-at-Green-Wood.jpg
+|date=September 20, 2006
+|address=[[Brooklyn, New York|Brooklyn]]
+|lat=40.6522
+|lon=-73.9911
+|county=[[List of Registered Historic Places in Kings County, New York|Kings]]
+|description= Popular tourist attraction in the 1850s; most famous New Yorkers who died during the second half of the nineteenth century buried here
+|refnum=97000228
+|commonscat=Green-Wood Cemetery
+}}
+{{NRHP row|NHL
+|pos=42
+|article=Hamilton Grange National Memorial
+|name=Hamilton Grange National Memorial
+|image=Hamilton-Grange.jpg
+|date=December 19, 1960
+|address=[[Manhattan]]
+|lat=40.821389
+|lon=-73.947222
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Home of [[Alexander Hamilton]]: military officer, lawyer, member of the [[United States Constitutional Convention]], American statesman, first [[United States Secretary of the Treasury]], and [[Founding Father]]; [[facade]] is oldest surviving structure in Manhattan
+|refnum=66000097
+|commonscat=Hamilton Grange National Memorial
+}}
+{{NRHP row|NHL
+|pos=43
+|article=Solomon R. Guggenheim Museum
+|name=Solomon R. Guggenheim Museum
+|image=NYC - Guggenheim Museum.jpg
+|date=October 6, 2008
+|address=[[Manhattan]]
+|lat=40.782883
+|lon=-73.958992
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= 
+|refnum=05000443
+|commonscat=Solomon R. Guggenheim Museum
+}}
+{{NRHP row|NHL
+|pos=44
+|article=Henry Street Settlement and Neighborhood Playhouse
+|name=Henry Street Settlement and Neighborhood Playhouse
+|image=Henry-st-settlement.jpg
+|date=May 30, 1974
+|address=[[Manhattan]]
+|lat=40.713889
+|lon=-73.985278
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= One of the nation's first [[settlement house|settlement homes]] where new immigrants and the poor could find assistance
+|refnum=74001272
+|commonscat=Henry Street Settlement
+}}
+{{NRHP row|NHL
+|pos=45
+|article=Matthew Henson Residence
+|name=Matthew Henson Residence
+|image=246-west-150.jpg
+|date=May 15, 1975
+|address=[[Manhattan]]
+|lat=40.825444
+|lon=-73.93875
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Home of [[Matthew Henson]], African-American polar explorer who may have been the first to reach the [[North Pole]]
+|refnum=75001207
+|commonscat=Henry Street Settlement
+}}
+{{NRHP row|NHL
+|pos=46
+|article=Hispanic Society of America
+|name=Hispanic Society of America
+|image=WTM NewYorkDolls 010.jpg
+|date=October 17, 2012
+|address=[[Manhattan]]
+|lat=40.833521
+|lon=-73.946514
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Museum of Iberian Art
+|refnum= 12001009
+|commonscat=Hispanic Society of America buildings
+}}
+{{NRHP row|NHL
+|pos=47
+|article=Holland Tunnel
+|name=Holland Tunnel
+|image=Holland tunnel.jpg
+|date=November 4, 1993
+|address=[[Manhattan]]
+|lat=40.7275
+|lon=-74.021389
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Tunnel underneath the [[Hudson River]], connecting [[Manhattan]] and [[New Jersey]]; [[civil engineering]] landmark; one of the earliest ventilated tunnels
+|refnum=93001619
+|commonscat=Holland Tunnel
+}}
+{{NRHP row|NHL
+|pos=48
+|article=USS Intrepid (CV-11)
+|name=USS Intrepid
+|image=USS Intrepid (CV-11) operating in the Philippine Sea in November 1944 (NH 97468).jpg
+|date=January 14, 1986
+|address=[[Manhattan]]
+|lat=40.7648
+|lon=-74.001
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= One of the most active U.S. ships during [[World War II]]; today a museum moored along the West Side
+|refnum=86000082
+|commonscat=USS Intrepid (CV-11)
+}}
+{{NRHP row|NHL
+|pos=49
+|article=James Weldon Johnson Residence
+|name=James Weldon Johnson Residence
+|image=187-west-135th.jpg
+|date=May 11, 1976
+|address=[[Manhattan]]
+|lat=40.815278
+|lon=-73.943056
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Harlem home of African-American artist-activist [[James Weldon Johnson]]
+|refnum=76001241
+|commonscat=James Weldon Johnson Residence
+}}
+{{NRHP row|NHL
+|pos=50
+|article=King Manor
+|name=King Manor
+|image=Rufus-king-house.jpg
+|date=December 2, 1974
+|address=[[Jamaica, Queens, New York|Jamaica]]
+|lat=40.703021
+|lon=-73.80376
+|county=[[List of Registered Historic Places in Queens County, New York|Queens]]
+|description= Home of [[Rufus King]], a signer of Declaration of Independence and early U.S. Senator from New York
+|refnum=74001295
+|commonscat=Rufus King House (Jamaica, Queens)
+}}
+{{NRHP row|NHL
+|pos=51
+|article=Lettie G. Howard (schooner)
+|name=''Lettie G. Howard'' (schooner)
+|image=Schooner Lettie G. Howard, South Street Seaport Museum, New York (New York County, New York).jpg
+|date=April 11, 1989
+|address=[[Manhattan]]
+|lat=40.706111
+|lon=-74.003333
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Last remaining ''Fredonia''-type schooner (once the standard for American fishing boats) at the [[South Street Seaport]]
+|refnum=84002779
+|commonscat=Lettie G. Howard (ship, 1893)
+}}
+{{NRHP row|NHL
+|pos=52
+|article=Lorillard Snuff Mill
+|name=Lorillard Snuff Mill
+|image=Lorillard-snuff-mill.JPG
+|date=December 22, 1977
+|address=[[New York Botanical Garden]]
+|lat=40.859681
+|lon=-73.876174
+|county=[[List of Registered Historic Places in Bronx County, New York|Bronx]]
+|description= Oldest existing tobacco-manufacturing facility in U.S.
+|refnum=77000935
+|commonscat=Lorillard Snuff Mill
+}}
+{{NRHP row|NHL
+|pos=53
+|article=Low Memorial Library
+|name=Low Memorial Library
+|image=Low Library Columbia University 8-11-06.jpg
+|date=December 23, 1987
+|address=[[Columbia University]]
+|lat=40.80826
+|lon=-73.96188
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= First building on Morningside Heights campus; capped by largest freestanding granite dome in U.S.
+|refnum=87002599
+|commonscat=Low Memorial Library
+}}
+{{NRHP row|NHL
+|pos=54
+|article=R. H. Macy and Company Store (building)
+|name=R. H. Macy and Company Store (Macy's)
+|image=MacysDepartmentStoreNewyork.jpg
+|date=June 2, 1978
+|address=[[Manhattan]]
+|lat=40.750278
+|lon=-73.988333
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Largest department store in world for many years
+|refnum=78001873
+|commonscat=Macy's Herald Square
+}}
+{{NRHP row|NHL
+|pos=55
+|article=330 West 42nd Street
+|name=McGraw Hill Building
+|image=Mcgraw-hill-42nd-st.jpg
+|date=June 29, 1989
+|address=[[Manhattan]]
+|lat=40.757222
+|lon=-73.991111
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Landmark Art Deco building; first U.S. building in [[International style (architecture)|International Style]]
+|refnum=80002701
+|commonscat=330 West 42nd Street
+}}
+{{NRHP row|NHL
+|pos=56
+|article=Claude McKay Residence
+|name=Claude McKay Residence
+|image=180-west135th.jpg
+|date=December 8, 1976
+|address=[[Manhattan]]
+|lat=40.814167
+|lon=-73.94166
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= The Harlem YMCA, whose residents included African-American writer [[Claude McKay]]
+|refnum=76002143
+|commonscat=Harlem YMCA
+}}
+{{NRHP row|NHL
+|pos=57
+|article=Metropolitan Life Insurance Company Tower
+|name=Metropolitan Life Insurance Company Tower
+|image=Metropolitan Life Insurance Company Tower at Night Light Up.jpg
+|date=June 2, 1978
+|address=[[Manhattan]]
+|lat=40.74124
+|lon=-73.9874
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Tallest building in the world 1909 to 1913; still part of the skyline a century later
+|refnum=78001874
+|commonscat=Metropolitan Life Insurance Company Tower
+}}
+{{NRHP row|NHL
+|pos=58
+|article=Metropolitan Museum of Art
+|name=Metropolitan Museum of Art
+|image=Metropolitan Museum of Art, New York City NY, entrance.jpg
+|date=June 24, 1986
+|address=[[Manhattan]]
+|lat=40.77891
+|lon=-73.96367
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= One of the world's most important and prestigious art museums
+|refnum=86003556
+|commonscat=Metropolitan Museum of Art - Buildings
+}}
+{{NRHP row|NHL
+|pos=59
+|article=Morgan Library & Museum
+|name=J. Pierpont Morgan Library
+|image=Jpmorganlibrary.jpg
+|date=November 13, 1966
+|address=[[Manhattan]]
+|lat=40.748803
+|lon=-73.981556
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Office, Library, and now Museum of [[J. P. Morgan]]; the [[Panic of 1907]] ended in the Library
+|refnum=66000544
+|commonscat=Morgan Library & Museum
+}}
+{{NRHP row|NHL
+|pos=60
+|article=Morris-Jumel Mansion
+|name=Morris-Jumel Mansion
+|image=Morris-jumel.jpg
+|date=January 20, 1961
+|address=[[Manhattan]]
+|lat=40.834528
+|lon=-73.938611
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Oldest building in Manhattan
+|refnum=66000545
+|commonscat=Morris-Jumel Mansion
+}}
+{{NRHP row|NHL
+|pos=61
+|article=National City Bank Building
+|name=National City Bank Building
+|image=55-wall-street.jpg
+|date=June 2, 1978
+|address=[[Manhattan]]
+|lat=40.706039
+|lon=-74.009174
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Home to one of the country's largest and most important banks since 1908
+|refnum=78001875
+|commonscat=55 Wall Street
+}}
+{{NRHP row|NHL
+|pos=62
+|article=New York Amsterdam News Building
+|name=New York Amsterdam News Building
+|image=2293-seventh-ave.jpg
+|date=May 11, 1976
+|address=[[Manhattan]]
+|lat=40.814944
+|lon=-73.94472
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Influential black newspaper the ''[[New York Amsterdam News]]'' was published here 1916-38
+|refnum=76001247
+|commonscat=New York Amsterdam News Building
+}}
+{{NRHP row|NHL
+|pos=63
+|article=New York Botanical Garden
+|name=New York Botanical Garden
+|image=Ny-botanical-haupt-conservatory.JPG
+|date=May 28, 1967
+|address=[[The Bronx|Bronx]]
+|lat=40.863611
+|lon=-73.878333
+|county=[[List of Registered Historic Places in Bronx County, New York|Bronx]]
+|description= One of the world's leading botanical gardens, with the largest [[herbarium]] in the US and second largest in the world after the [[National Museum of Natural History (France)|French National Museum of Natural History]] and home to many plant laboratories
+|refnum=67000009
+|commonscat=New York Botanical Garden
+}}
+{{NRHP row|NHL
+|pos=64
+|article=1 Hanover Square
+|name=New York Cotton Exchange
+|image=1 Hanover Square 001.JPG
+|date=December 22, 1977
+|address=[[Manhattan]]
+|lat=40.704444
+|lon=-74.010167
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= First commodity market in the U.S.; now 1 Hanover Square
+|refnum=72001586
+|commonscat=1 Hanover Square
+}}
+{{NRHP row|NHL
+|pos=65
+|article=New York Life Building
+|name=New York Life Building
+|image=Ny-life-bldg.jpg
+|date=June 2, 1978
+|address=[[Manhattan]]
+|lat=40.742778
+|lon=-73.985556
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Last significant [[Cass Gilbert]] skyscraper in Manhattan
+|refnum=78001876
+|commonscat=New York Life Building
+}}
+{{NRHP row|NHL
+|pos=66
+|article=New York Public Library Main Branch
+|name=New York Public Library
+|image=New York Public Library May 2011.JPG
+|date=December 21, 1965
+|address=[[Manhattan]]
+|lat=40.753333
+|lon=-73.982222
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= One of the largest and most important libraries in the U.S.; listing is for main branch building.
+|refnum=66000546
+|commonscat=New York Public Library main building
+}}
+{{NRHP row|NHL
+|pos=67
+|article=New York Stock Exchange Building
+|name=New York Stock Exchange
+|image=2004_-_United_States_-_Manhattan_-_New_York_City_-_New_York_-_New_York_Stock_Exchange_copy_4887745328.jpg
+|date=June 2, 1978
+|address=[[Manhattan]]
+|lat=40.706833
+|lon=-74.011028
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= One of the first securities markets in the U.S.; still the world's largest
+|refnum=78001877
+|commonscat=New York Stock Exchange 1903 building
+}}
+{{NRHP row|NHL
+|pos=68
+|article=New York Studio School of Drawing, Painting and Sculpture (building)
+|name=New York Studio School of Drawing, Painting and Sculpture
+|image=8-14-eighth street.jpg
+|date=April 27, 1992
+|address=[[Manhattan]]
+|lat=40.73295
+|lon=-73.998306
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Original home of the [[Whitney Museum]], the first devoted to 20th-century American art
+|refnum=92001877
+|commonscat=Whitney Museum of American Art (original building)
+}}
+{{NRHP row|NHL
+|pos=69
+|article=New York Yacht Club
+|name=New York Yacht Club
+|image=Nyyc-2007.jpg
+|date=May 28, 1987
+|address=[[Manhattan]]
+|lat=40.755556
+|lon=-73.981556
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Oldest yachting club in U.S.; longtime home of the [[America's Cup]]
+|refnum=82001203
+|commonscat=New York Yacht Club
+}}
+{{NRHP row|NHL
+|pos=70
+|article=Merchant's House Museum
+|name=Old Merchant's House
+|image=WTM tony 0079.jpg
+|date=June 23, 1965
+|address=[[Manhattan]]
+|lat=40.7276
+|lon=-73.992386
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Nineteenth-century family home; preserved inside and out
+|refnum=66000548
+|commonscat=Merchant's House Museum
+}}
+{{NRHP row|NHL
+|pos=71
+|article=Old Quaker Meeting House (Flushing, Queens)
+|name=Old Quaker Meeting House
+|image=Old-quaker-house-flushing.jpg
+|date=December 24, 1967
+|address=[[Flushing, Queens|Flushing]]
+|lat=40.763028
+|lon=-73.830365
+|county=[[List of Registered Historic Places in Queens County, New York|Queens]]
+|description= Only surviving 17th-century ecclesiastical frame building in New York; in almost continuous use since 1696
+|refnum=67000015
+|commonscat=Old Quaker Meeting House (Flushing, Queens)
+}}
+{{NRHP row|NHL
+|pos=72
+|article=Philosophy Hall
+|name=Philosophy Hall
+|image=Philohall.JPEG
+|date=July 21, 2003
+|address=[[Columbia University]]
+|lat=40.806111
+|lon=-73.9625
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= [[Edwin Armstrong]] developed [[FM radio]] in this [[Columbia University]] building
+|refnum=03001046
+|commonscat=Philosophy Hall (Columbia University)
+}}
+{{NRHP row|NHL
+|pos=73
+|article=The Players (New York City)
+|name=Players Club
+|image=Players Club.jpg
+|date=December 19, 1962
+|address=[[Manhattan]]
+|lat=40.737503
+|lon=-73.987058
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Extensive collection of art and theater memorabilia; interior redone by [[Stanford White]]
+|refnum=66000549
+|commonscat=The Players (New York City)
+}}
+{{NRHP row|NHL
+|pos=74
+|article=Plaza Hotel
+|name=Plaza Hotel
+|image=Plaza hotel.jpg
+|date=June 24, 1986
+|address=[[Manhattan]]
+|lat=40.764712
+|lon=-73.974574
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= [[French Renaissance]]-style building; outstanding example of American hotel architecture; symbol of elegance; visible from much of lower [[Central Park]]; setting for [[Kay Thompson]]'s popular ''[[Eloise (books)|Eloise]]'' series of children's books
+|refnum=78001878
+|commonscat=Plaza Hotel
+}}
+{{NRHP row|NHL
+|pos=75
+|article=Plymouth Church of the Pilgrims
+|name=Plymouth Church of the Pilgrims
+|image=HWB in the Snow.jpg
+|date=July 4, 1961
+|address=[[Brooklyn, New York|Brooklyn]]
+|lat=40.699272
+|lon=-73.993556
+|county=[[List of Registered Historic Places in Kings County, New York|Kings]]
+|description= Important station on [[Underground Railroad]] when [[Henry Ward Beecher]] was pastor
+|refnum=66000525
+|commonscat=Plymouth Church (Brooklyn, New York)
+}}
+{{NRHP row|NHL
+|pos=76
+|article=Pupin Hall
+|name=Pupin Physics Laboratory, Columbia University
+|image=Pupin Hall.jpg
+|date=December 21, 1965
+|address=[[Columbia University]]
+|lat=40.810064
+|lon=-73.961533
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= [[Columbia University]] building; site of first [[nuclear fission|splitting]] of uranium atom in U.S. and other milestones in development of [[atomic bomb]]
+|refnum=66000550
+|commonscat=Pupin Hall
+}}
+{{NRHP row|NHL
+|pos=77
+|article=Quarters A, Brooklyn Navy Yard
+|name=Quarters A, Brooklyn Navy Yard
+|image=Quartersabloomjeh.jpg
+|date=May 30, 1974
+|address=[[Brooklyn, New York|Brooklyn]]
+|lat=40.702494
+|lon=-73.981114
+|county=[[List of Registered Historic Places in Kings County, New York|Kings]]
+|description= Home to [[Matthew C. Perry|Matthew Perry]] at the time of his opening of Japan
+|refnum=74001252
+|commonscat=555 Edgecombe Avenue
+}}
+{{NRHP row|NHL
+|pos=78
+|article=Paul Robeson Home
+|name=Paul Robeson Home
+|image=555-edgecombe.jpg
+|date=December 8, 1976
+|address=[[Manhattan]]
+|lat=40.834361
+|lon=-73.938972
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Home of legendary African-American actor and activist [[Paul Robeson]]
+|refnum=76001248
+|commonscat=555 Edgecombe Avenue
+}}
+{{NRHP row|NHL
+|pos=79
+|article=Jackie Robinson House
+|name=Jackie Robinson House
+|image=Jackie-robinson-house.jpg
+|date=May 11, 1976
+|address=[[Brooklyn, New York|Brooklyn]]
+|lat=40.648292
+|lon=-73.915081
+|county=[[List of Registered Historic Places in Kings County, New York|Kings]]
+|description= Home of baseball great [[Jackie Robinson]]
+|refnum=76001226
+|commonscat=555 Edgecombe Avenue
+}}
+{{NRHP row|NHL
+|pos=80
+|article=Rockefeller Center
+|name=Rockefeller Center
+|image=Radio City Music Hall 1.JPG
+|date=December 23, 1987
+|address=[[Manhattan]]
+|lat=40.758611
+|lon=-73.979167
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Successful urban planning project of 20th-century America; changed [[Midtown Manhattan]]; originating site of popular NBC television programs ''[[Today (NBC program)|Today]]'' and ''[[Saturday Night Live]]''
+|refnum=87002591
+|commonscat=Rockefeller Center
+}}
+{{NRHP row|NHL
+|pos=81
+|article=Sailors' Snug Harbor
+|name=Sailors' Snug Harbor
+|image=Sailors-snug-harbor.jpg
+|date=December 8, 1976
+|address=[[Sailors' Snug Harbor]]
+|lat=40.6425
+|lon=-74.102778
+|county=[[List of Registered Historic Places in Richmond County, New York|Richmond (Staten Island)]]
+|description= First and only home for retired merchant seamen in U.S.
+|refnum=72000909
+|commonscat=Sailors' Snug Harbor
+}}
+{{NRHP row|NHL
+|pos=82
+|article=St. Ann and the Holy Trinity Church
+|name=St. Ann and the Holy Trinity Church
+|image=St-ann-brooklyn-heights.JPG
+|date=December 23, 1987
+|address=[[Brooklyn, New York|Brooklyn]]
+|lat=40.694583
+|lon=-73.992975
+|county=[[List of Registered Historic Places in Kings County, New York|Kings]]
+|description= Site of first figural stained-glass windows in U.S.
+|refnum=87002590
+|commonscat=St. Ann & the Holy Trinity Church
+}}
+{{NRHP row|NHL
+|pos=83
+|article=St. George's Episcopal Church (Manhattan)
+|name=St. George's Episcopal Church
+|image=St-george-episcopal.jpg
+|date=December 8, 1976
+|address=[[Manhattan]]
+|lat=40.734397
+|lon=-73.984964
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Home church of [[Harry Thacker Burleigh]], African-American singer who helped establish the [[Spiritual (music)|spiritual]] in the liturgy of many American faiths
+|refnum=76001249
+|commonscat=St. George's Episcopal Church (Manhattan)
+}}
+{{NRHP row|NHL
+|pos=84
+|article=St. Patrick's Cathedral, New York
+|name=St. Patrick's Cathedral
+|image=Saint Patrick's Cathedral by David Shankbone.jpg
+|date=December 8, 1976
+|address=[[Manhattan]]
+|lat=40.758611
+|lon=-73.976389
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= First large-scale medieval-style church built in U.S.
+|refnum=76001250
+|commonscat=St. Patrick's Cathedral (Manhattan)
+}}
+{{NRHP row|NHL
+|pos=85
+|article=St. Paul's Chapel
+|name=St. Paul's Chapel
+|image=St-pauls-manhattan.JPG
+|date=October 9, 1960
+|address=[[Manhattan]]
+|lat=40.711394
+|lon=-74.009947
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= One of the few surviving colonial-era churches in city; [[George Washington]] worshipped here following his inauguration; site of informal memorials following [[September 11, 2001 terrorist attacks]]
+|refnum=66000551
+|commonscat=St. Paul's Chapel
+}}
+{{NRHP row|NHL
+|pos=86
+|article=Margaret Sanger Clinic
+|name=Margaret Sanger Clinic
+|image=17-west-16.jpg
+|date=September 14, 1993
+|address=[[Manhattan]]
+|lat=40.738056
+|lon=-73.994167
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Clinic where [[Margaret Sanger]] dispensed [[birth control]]
+|refnum=93001599
+|commonscat=Margaret Sanger Clinic
+}}
+{{NRHP row|NHL
+|pos=87
+|article=Schomburg Center for Research in Black Culture
+|name=Schomburg Center for Research in Black Culture
+|image=Schomburg-center.jpg
+|date=December 23, 2016
+|address=[[Manhattan]]
+|lat=40.814444
+|lon=-73.941389
+|county=[[New York County, New York|New York]]
+|description=<!-- Description goes here -->
+|refnum=73001222
+|commonscat=Schomburg Center for Research in Black Culture
+}}
+{{NRHP row|NHL
+|pos=88
+|article=Gen. Winfield Scott House
+|name=Gen. Winfield Scott House
+|image=24-west-12th.jpg
+|date=November 7, 1973
+|address=[[Manhattan]]
+|lat=40.735
+|lon=-73.995833
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Home of [[Winfield Scott]], heroic general in the [[U.S.-Mexican War]] and later presidential candidate
+|refnum=73001222
+|commonscat=General Winfield Scott House
+}}
+{{NRHP row|NHL
+|pos=89
+|article=Seventh Regiment Armory
+|name=Seventh Regiment Armory
+|image=7th Regiment Armory 001.JPG
+|date=February 24, 1986
+|address=[[Manhattan]]
+|lat=40.7675
+|lon=-73.966111
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= One of the most impressive collections of 1880s interior decoration outside of a museum; only armory actually owned by the unit for which it was constructed
+|refnum=75001208
+|commonscat=Seventh Regiment Armory
+}}
+{{NRHP row|NHL
+|pos=90
+|article=Harry F. Sinclair House
+|name=Harry F. Sinclair House
+|image=Harry F Sinclair House 9730.JPG
+|date=June 2, 1978
+|address=[[Manhattan]]
+|lat=40.77675
+|lon=-73.963611
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= [[Harry F. Sinclair]], the oil industrialist, lived here from 1918–1930; now part of the Ukrainian Institute; often used in [[filmmaking]] and [[television production]]
+|refnum=78001882
+|commonscat=Harry F. Sinclair House
+}}
+{{NRHP row|NHL
+|pos=91
+|article=Alfred E. Smith House
+|name=Alfred E. Smith House
+|image=Alfred-e-smith-house.jpg
+|date=November 28, 1972
+|address=[[Manhattan]]
+|lat=40.713208
+|lon=-73.997962
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Home of four time New York State governor, [[Alfred E. Smith]] (and later presidential candidate) from 1907 to 1923
+|refnum=72000882
+}}
+{{NRHP row|NHL
+|type=NHLD
+|pos=92
+|article=SoHo-Cast Iron Historic District
+|name=SoHo-Cast Iron Historic District
+|image=NYC SoHo Green Street.jpg
+|date=June 2, 1978
+|address=[[Manhattan]]
+|lat=40.724315
+|lon=-74.001292
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Believed to be the largest existing collection of late 19th-century [[cast iron]] facades in the world
+|refnum=78001883
+|commonscat=SoHo, Manhattan
+}}
+{{NRHP row|NHL
+|pos=93
+|article=280 Broadway
+|name=A. T. Stewart Company Store
+|image=280-broadway.jpg
+|date=June 2, 1978
+|address=[[Manhattan]]
+|lat=40.71425
+|lon=-74.006111
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Site of the first American department store (now known as the '''''[[New York Sun]]'' building''')
+|refnum=78001885
+|commonscat=Sun Building (Manhattan)
+}}
+{{NRHP row|NHL
+|pos=94
+|article=Stonewall Inn
+|name=Stonewall
+|image=Stonewall Inn 2012 with gay-pride flags and banner.jpg
+|date=February 16, 2000
+|address=[[Manhattan]]
+|lat=40.733797
+|lon=-74.0021
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Site of 1969 [[Stonewall riots]] which began [[gay rights]] movement
+|refnum=99000562
+|commonscat=Stonewall Inn
+}}
+{{NRHP row|NHL
+|pos=95
+|article=St. Bartholomew's Episcopal Church (Manhattan)
+|name=St. Bartholomew's Church and Community House
+|image=St Bartholomew Church.JPG 
+|date=October 31, 2016
+|address=[[Midtown, Manhattan|Midtown Manhattan]]
+|lat=40.757222
+|lon=-73.973611
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= A pivotal example of the work of [[Bertram Grosvenor Goodhue]] and an outstanding example of early 20th-century [[ecclesiastical architecture]].<ref>{{cite news|title=Secretary Jewell, Director Jarvis Announce 10 New National Historic Landmarks Illustrating America's Diverse History, Culture|url=https://www.doi.gov/pressreleases/secretary-jewell-director-jarvis-announce-10-new-national-historic-landmarks|access-date=November 3, 2016|publisher=Department of the Interior|date=November 2, 2016}}</ref>
+|refnum=80002719
+|commonscat=St. Bartholomew's Episcopal Church (Manhattan)
+}}
+{{NRHP row|NHL
+|pos=96
+|article=Surrogate's Courthouse
+|name=Surrogate's Court
+|image=NYC Surrogate's Courthouse.jpg
+|date=December 22, 1977
+|address=[[Manhattan]]
+|lat=40.713511
+|lon=-74.004589
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Probate Courthouse across from NYC's city hall
+|refnum=72000888
+|commonscat=Surrogate's Courthouse (Manhattan)
+}}
+{{NRHP row|NHL
+|pos=98
+|article=Jefferson Market Library
+|name=Third Judicial District Courthouse
+|image=Jefferson market.jpg
+|date=December 22, 1977
+|address=[[Manhattan]]
+|lat=40.734722
+|lon=-73.999167
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Originally built as the Third Judicial District Courthouse; faced with demolition, public outcry led to its reuse as a branch of the [[New York Public Library]]
+|refnum=72000875
+|commonscat=NYPL Jefferson Market Branch
+}}
+{{NRHP row|NHL
+|pos=99
+|article=Tiffany and Company Building
+|name=Tiffany and Company Building
+|image=WTM3 NYU FC 2 0075.jpg
+|date=June 2, 1978
+|address=[[Manhattan]]
+|lat=40.75
+|lon=-73.981306
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Served as the home of [[Tiffany and Company]] from 1905 through 1940
+|refnum=78001886
+|commonscat=Tiffany and Company Building
+}}
+{{NRHP row|NHL
+|pos=100
+|article=Samuel J. Tilden House
+|name=Samuel J. Tilden House
+|image=National-arts-club.jpg
+|date=May 11, 1976
+|address=[[Manhattan]]
+|lat=40.7375
+|lon=-73.987222
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Home of [[Samuel J. Tilden]], former New York State governor and loser of the bitter 1876 presidential election
+|refnum=76001251
+|commonscat=National Arts Club
+}}
+{{NRHP row|NHL
+|pos=101
+|article=The Town Hall (New York City)
+|name=The Town Hall
+|image=Ny-town-hall.jpg
+|date=March 2, 2012
+|address=[[Manhattan]]<br/> <small>{{coord|40.755986|-73.984712|name=The Town Hall|type:landmark}}</small>
+|lat=40.755986
+|lon=-73.984712
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= "America's Town Meetings of the Air" radio programs from here in the 1930s created public-affairs media.
+|refnum=80002724
+|commonscat=The Town Hall (New York City)
+}}
+{{NRHP row|NHL
+|pos=102
+|article=Triangle Shirtwaist Factory
+|name=Triangle Shirtwaist Factory
+|image=Asch-brown-triangle-shirtwaist-fire-building.JPG
+|date=July 17, 1971
+|address=[[Manhattan]]
+|lat=40.730011
+|lon=-73.995817
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Site of the [[Triangle Shirtwaist Factory fire]], one of the worst industrial disasters in the US, which led to many workplace reforms
+|refnum=91002050
+|commonscat=Triangle Shirtwaist Factory building
+}}
+{{NRHP row|NHL
+|pos=103
+|article=Trinity Church, New York
+|name=Trinity Church
+|image=Trinity Church NYC 004b.JPG
+|date=December 8, 1976
+|address=[[Manhattan]]
+|lat=40.708056
+|lon=-74.012222
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Historic church which looks down [[Wall Street]]
+|refnum=76001252
+|commonscat=Trinity Church (Manhattan)
+}}
+{{NRHP row|NHL
+|pos=104
+|article=Tweed Courthouse
+|name=Old New York County Courthouse
+|image=Tweed Courthouse north main facade 118443pv.jpg
+|date=May 11, 1976
+|address=[[Manhattan]]
+|lat=40.713167
+|lon=-74.006
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Historic courthouse, more commonly known as the Tweed Courthouse, connected to [[Tammany Hall]], now used by NYC's Department of Education
+|refnum=74001277
+|commonscat=Tweed Courthouse
+}}
+{{NRHP row|NHL
+|pos=105
+|article=Union Square (New York City)
+|name=Union Square
+|image=Union Square New York by David Shankbone.jpg
+|date=December 9, 1997
+|address=[[Manhattan]]
+|lat=40.735556
+|lon=-73.990556
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= The political heart of Manhattan; many protests begin or end here
+|refnum=97001678
+|commonscat=Union Square, Manhattan, New York City
+}}
+{{NRHP row|NHL
+|pos=106
+|article=United Charities Building
+|name=United Charities Building
+|image=United-charities-building.jpg
+|date=July 17, 1991
+|address=[[Manhattan]]
+|lat=40.739389
+|lon=-73.986389
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= Built in 1893 by a wealthy businessman in order to provide his favorite charities a low cost location for their operations
+|refnum=85000661
+|commonscat=United Charities Building
+}}
+{{NRHP row|NHL
+|pos=107
+|article=United Workers Cooperatives
+|name=United Workers Cooperatives
+|image=United Workers Cooperatives, 2700-2870 Bronx Park E, Bronx County, New York.JPG
+|date=July 17, 1991
+|address=[[Bronx, New York|Bronx]]
+|lat=40.866389
+|lon=-73.869722
+|county=[[National Register of Historic Places listings in Bronx County, New York|Bronx]]
+|description= Built in 1926 by the United Workers' Association to improve the living standards of its members, many of whom lived in squalid conditions in the tenements of the Lower East Side
+|refnum=86002518
+|commonscat=United Workers Cooperatives
+}}
+{{NRHP row|NHL
+|pos=108
+|article=Alexander Hamilton U.S. Custom House
+|name=U.S. Customhouse
+|image=Us-customhouse.jpg
+|date=December 8, 1976
+|address=[[Manhattan]]
+|lat=40.704294
+|lon=-74.013773
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= [[Cass Gilbert]] designed Customhouse for New York Harbor; now part of the [[Smithsonian Institution]]
+|refnum=72000889
+|commonscat=Alexander Hamilton U.S. Custom House
+}}
+{{NRHP row|NHL
+|pos=109
+|article=University Heights Campus (Bronx Community College of the City University of New York)
+|name=University Heights Campus (Bronx Community College of the City University of New York)
+|image=NYU library2 crop.jpg
+|date=October 17, 2012
+|address=[[The Bronx|Bronx]]
+|lat=40.857778
+|lon=-73.912222
+|county=[[List of Registered Historic Places in Bronx County, New York|Bronx]]
+|description= Collection of [[Beaux Arts architecture|Beaux Arts]] buildings by [[Stanford White]] is one of the best examples of that style anywhere.
+|refnum=12001013
+|commonscat=Bronx Community College
+}}
+{{NRHP row|NHL
+|pos=110
+|article=Van Cortlandt House Museum
+|name=Van Cortlandt House
+|image=Van Cortlandt Mansion.jpg
+|date=December 24, 1976
+|address=[[Van Cortlandt Park]]
+|lat=40.89
+|lon=-73.896389
+|county=[[List of Registered Historic Places in Bronx County, New York|Bronx]]
+|description= Mansion for the Van Cortlandt family built in 1748 and used during the [[American Revolution]]
+|refnum=67000010
+|commonscat=Frederick Van Cortlandt House Museum
+}}
+{{NRHP row|NHL
+|pos=111
+|article=Voorlezer's House
+|name=Voorlezer's House
+|image=Vorleezer-house.jpg
+|date=November 5, 1961
+|address=[[Richmondtown, Staten Island|Richmondtown]]
+|lat=40.571417
+|lon=-74.1475
+|county=[[List of Registered Historic Places in Richmond County, New York|Richmond (Staten Island)]]
+|description= Oldest known surviving schoolhouse in America; owned by the Staten Island historical society
+|refnum=66000565
+|commonscat=Voorlezer's House
+}}
+{{NRHP row|NHL
+|pos=112
+|article=Wards Point Archeological Site
+|name=Wards Point Archeological Site
+|image=Vicinity-of-wards-point-site.JPG
+|date=April 19, 1993
+|address=[[Tottenville, Staten Island|Tottenville]]
+|lat=40.498889
+|lon=-74.251944
+|county=[[List of Registered Historic Places in Richmond County, New York|Richmond (Staten Island)]]
+|description= Archaeological site in [[Conference House Park]] containing prehistoric remains.
+|refnum=93000609
+|commonscat=Woodlawn Cemetery (Bronx)
+}}
+{{NRHP row|NHL
+|pos=113
+|article=Woodlawn Cemetery (Bronx)
+|name=Woodlawn Cemetery
+|image=Woodlawn Cemetery Bronx 008.jpg
+|date=June 23, 2011
+|address=[[Bronx, New York|Bronx]]
+|lat=40.889167
+|lon=-73.873333
+|county=[[National Register of Historic Places listings in Bronx County, New York|Bronx]]
+|description= Illustrates transition from rural cemetery to 20th-century styles; notable dead buried here include [[Robert Moses]] and [[R.H. Macy]]
+|refnum=11000563
+|commonscat=Woodlawn Cemetery (Bronx)
+}}
+{{NRHP row|NHL
+|pos=114
+|article=Woolworth Building
+|name=Woolworth Building
+|image=View of Woolworth Building fixed.jpg
+|date=November 13, 1966
+|address=[[Manhattan]]
+|lat=40.712222
+|lon=-74.008056
+|county=[[List of Registered Historic Places in New York County, New York|New York]]
+|description= One of the oldest —and most famous — skyscrapers in New York City; one of the tallest buildings in the New York City
+|refnum=66000554
+|commonscat=Woolworth Building
+}}
+{{NRHP row|NHL
+|pos=115
+|article=Wyckoff House
+|name=Wyckoff House
+|image=Wyckoff-house.jpg
+|date=December 24, 1967
+|address=[[Brooklyn, New York|Brooklyn]]
+|lat=40.644342
+|lon=-73.920777
+|county=[[List of Registered Historic Places in Kings County, New York|Kings]]
+|description= Oldest surviving Dutch [[saltbox]] frame house in America
+|refnum=67000013
+|commonscat=Wyckoff House
+}}
+{{NRHP row|NHL
+|pos=116
+|article=Wyckoff-Bennett Homestead
+|name=Wyckoff-Bennett Homestead
+|image=Wyckoff-bennett-homestead.jpg
+|date=December 24, 1976
+|address=[[Brooklyn, New York|Brooklyn]]
+|lat=40.610851
+|lon=-73.951265
+|county=[[List of Registered Historic Places in Kings County, New York|Kings]]
+|description= Housed Hessian soldiers during the [[American Revolution]]
+|refnum=74001253
+|commonscat=Wyckoff-Bennett Homestead
+}}

@@ -1,0 +1,73 @@
+p{
+    text-align: left;
+}
+
+h2{
+    text-align: left;
+}
+
+.route-drawer {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+}
+
+.route-position{
+    position: absolute;
+    z-index: 10;
+    margin-top: 10px;
+    margin-right: 200px;
+    padding: 10px 70px 10px 20px;
+    text-align: right;
+    height: auto;
+    width: 100%;
+}
+
+.route-title{
+    font-size: medium;
+    font-weight: bold;
+    text-align: left;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0px;
+}
+
+.route-item {
+    width: 100%;
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-left: 0px;
+}
+
+.route-info {
+    background-color: aqua;
+}
+
+.poi-list {
+    text-align: left;
+}
+
+.poi-item {
+    width: inherit;
+    text-align: left;
+    padding-left: 5px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.row-dragging {
+    background: #531b1b;
+    border: 2px solid rgb(170, 31, 31);
+}
+
+.row-dragging div {
+    padding: 16px;
+  }
+
+
+  .row-dragging .drag-visible {
+    visibility: visible;
+  }
